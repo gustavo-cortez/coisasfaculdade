@@ -1,0 +1,19 @@
+importar Produtos_importacao.txt
+inserir 43 DESODORANTE 15 13.49
+inserir 45 DESODORANTE 15 13.49
+excluir 33
+excluir 45
+atualizar -q 41 16
+atualizar -v 30 15.50
+consultar AR
+consultar DES
+vender
+43
+51
+32
+31
+31
+0
+consultar AR
+help
+sair
